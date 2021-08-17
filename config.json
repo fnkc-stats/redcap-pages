@@ -1,0 +1,28 @@
+{
+    "name": "Pages",
+    "namespace": "Pages\\Pages",
+    "description": "Create custom pages.",
+    "permissions": [
+    ],
+    "links": {
+        "project": [
+        ]
+    },
+    "authors": [
+        {
+            "name": "Kirill Voronin",
+            "email": "kirill.voronin@fccho-moscow.ru",
+            "institution": "FCCHO Moscow"
+        }
+    ],
+    "system-settings": [
+        {
+            "name": "Path",
+            "key": "path",
+            "type": "text"
+        }
+    ],
+    "compatibility": {
+        "redcap-version-min": "8.0.3"
+    }
+}
